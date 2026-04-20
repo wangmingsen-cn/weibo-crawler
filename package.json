@@ -1,0 +1,30 @@
+{
+  "name": "weibo-crawler",
+  "version": "1.0.0",
+  "description": "微博/头条文章爬取工具 - 支持爬取微博单条内容、用户列表、头条文章/视频",
+  "main": "crawler.py",
+  "scripts": {
+    "test": "python -m pytest tests/",
+    "lint": "flake8 crawler.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/weibo-crawler.git"
+  },
+  "keywords": [
+    "weibo",
+    "toutiao",
+    "crawler",
+    "scraper",
+    "python",
+    "微博",
+    "头条",
+    "爬虫"
+  ],
+  "author": "王明森",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/weibo-crawler/issues"
+  },
+  "homepage": "https://github.com/yourusername/weibo-crawler#readme"
+}
